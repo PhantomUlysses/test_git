@@ -26,6 +26,7 @@ function App() {
         </ul>
         <hr/>
         <h1>1</h1>
+        <h2>2</h2>
     </div>
   );
 }
